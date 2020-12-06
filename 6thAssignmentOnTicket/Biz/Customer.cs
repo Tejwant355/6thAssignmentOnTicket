@@ -11,6 +11,7 @@ namespace _6thAssignmentOnTicket.Biz
         public string Name { get; set; }
         public string Mobile { get; set; }
         public string Email { get; set; }
+        public string Emailsss { get; set; }
         public int TicketID { get; set; }
         public int SeatID { get; set; }
         public Ticket Ticket { get; set; }
